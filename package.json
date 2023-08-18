@@ -1,6 +1,26 @@
 {
+  "name": "social-network-api",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c0nstantin1990/social-network-api.git"
+  },
+  "keywords": [],
+  "author": "Constantin Constantinov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c0nstantin1990/social-network-api/issues"
+  },
+  "homepage": "https://github.com/c0nstantin1990/social-network-api#readme",
   "dependencies": {
     "express": "^4.18.2",
     "mongoose": "^7.4.3"
+  },
+  "scripts": {
+    "seed": "node utils/seed",
+    "start": "node server.js"
   }
 }
