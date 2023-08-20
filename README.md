@@ -1,4 +1,4 @@
-# social-network-api
+# Social Network Api
 
 ## Description
 
@@ -20,12 +20,19 @@ Empower your social connections with our dynamic social network application. Sea
 
 ## Usage
 
+Showing all users
 ![All Users](/screenshots/all_users.jpeg)
+Creating user
 ![Create user](/screenshots/create_user.jpeg)
+Updating user
 ![Update user](/screenshots/update_user.jpeg)
+Creating thought
 ![Create thought](/screenshots/create_thought.jpeg)
+Updating thought
 ![Update thought](/screenshots/update_thought.jpeg)
+Adding reaction
 ![Add reaction](/screenshots/add_reaction.jpeg)
+Adding friend
 ![Add friend](/screenshots/add_friend.jpeg)
 
 GitHub Repo: https://github.com/c0nstantin1990/social-network-api
